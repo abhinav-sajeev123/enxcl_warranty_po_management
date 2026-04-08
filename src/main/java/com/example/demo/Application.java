@@ -11,12 +11,7 @@ public class Application {
 
 		//hello jerin
 	}
-<<<<<<< HEAD
-	// heloooo
-	// hellooo
-=======
 	//heloooo
 	//hello jerin
->>>>>>> 9f717e97f6a00b1db8395801aa9eca4813f017c4
 
 }
