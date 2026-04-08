@@ -9,9 +9,13 @@ public class Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 
-		//hello jerin
+		// hello jerin
 	}
-	//heloooo
-	//hello jerin
+
+	public static void test() {
+		System.out.println("This is a test method.");
+	}
+	// heloooo
+	// hello jerin
 
 }
